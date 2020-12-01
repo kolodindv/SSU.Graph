@@ -1,0 +1,7 @@
+C:\Users\Denis K\source\repos\SSU.Kolodin_graphClass\SSU.Kolodin_graphClass\bin\Debug\SSU.Kolodin_graphClass.exe.config
+C:\Users\Denis K\source\repos\SSU.Kolodin_graphClass\SSU.Kolodin_graphClass\bin\Debug\SSU.Kolodin_graphClass.exe
+C:\Users\Denis K\source\repos\SSU.Kolodin_graphClass\SSU.Kolodin_graphClass\bin\Debug\SSU.Kolodin_graphClass.pdb
+C:\Users\Denis K\source\repos\SSU.Kolodin_graphClass\SSU.Kolodin_graphClass\obj\Debug\SSU.Kolodin_graphClass.csprojAssemblyReference.cache
+C:\Users\Denis K\source\repos\SSU.Kolodin_graphClass\SSU.Kolodin_graphClass\obj\Debug\SSU.Kolodin_graphClass.csproj.CoreCompileInputs.cache
+C:\Users\Denis K\source\repos\SSU.Kolodin_graphClass\SSU.Kolodin_graphClass\obj\Debug\SSU.Kolodin_graphClass.exe
+C:\Users\Denis K\source\repos\SSU.Kolodin_graphClass\SSU.Kolodin_graphClass\obj\Debug\SSU.Kolodin_graphClass.pdb
